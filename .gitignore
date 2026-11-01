@@ -17,6 +17,3 @@ local.properties
 .env
 debug.keystore
 
-# Sensitive config
-public/assets/aistudio/google-services*.json
-google-services.json
